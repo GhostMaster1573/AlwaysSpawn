@@ -1,7 +1,7 @@
 name: AlwaysSpawn
 author: GageGamesHD
-version: 1.2
-api: 3.0.0-ALPHA12
+version: 1.2.1
+api: 3.0.0-ALPHA12, 4.0.0, 4.0.0+dev
 main: GageGamesHD\AlwaysSpawn\Main
 load: STARTUP
-description: "Makes users spawn at the world spawn everytime they load in."
+description: "Makes users spawn at the world spawn everytime they load in. Including if they die."
